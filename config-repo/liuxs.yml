@@ -1,4 +1,4 @@
-from: git-detault-1.0
+from: git-detault-2.0
 spring:
     datasource:
         username: user_default
